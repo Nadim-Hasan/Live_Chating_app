@@ -1,0 +1,7 @@
+E:\live_chat\Come2Chat\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+E:\live_chat\Come2Chat\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\live_chat\Come2Chat\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+E:\live_chat\Come2Chat\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+E:\live_chat\Come2Chat\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+E:\live_chat\Come2Chat\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\live_chat\Come2Chat\API\obj\Debug\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
